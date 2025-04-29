@@ -212,7 +212,7 @@ MIT License
 
 ## 💬 Connect
 **Joshua**  
-🔗 https://www.linkedin.com/in/joshua-otieno 
+🔗 https://www.linkedin.com/in/joshua-otieno-38b144273/
 📧 joshuaonyango372@gmail.com
 
 > “From code to deployment, this clone mirrors the design, logic, and performance of enterprise-level systems.”
