@@ -116,6 +116,9 @@ Used for CI/CD to automate testing, building, and deployment.
 - A property can have multiple bookings and reviews.
 - A payment is linked to a booking.
 
+![image](https://github.com/user-attachments/assets/db6a1180-24de-40b2-8b71-4e5f04fe6b67)
+
+
 ---
 
 ## 🧩 Feature Breakdown
